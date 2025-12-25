@@ -1,4 +1,4 @@
-# Solana Data ETL Pipeline
+# Solana Data Pipeline
 
 A production-grade Solana data pipeline for ingesting on-chain data into Postgres, enabling analysis of transaction volume over time, token transfers, failed transactions, wallet activity patterns, program usage trends, and the most active programs.
 
